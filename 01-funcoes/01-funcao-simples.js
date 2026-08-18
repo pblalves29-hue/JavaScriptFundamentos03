@@ -4,7 +4,7 @@ function saudacao(){
 saudacao();
 
 function bomDia(){
-    console.log("bom dia")
+    console.log("Bom dia")
 }
 bomDia();
 
