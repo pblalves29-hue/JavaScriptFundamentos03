@@ -1,3 +1,4 @@
-let idade = 19;
-let idade2 = (idade >= 18) ? "Maior" : "Menor"
-console.log(idade2)
+const somaArrow= (a, b, c) => {
+    return a + b + c;
+}
+console.log(somaArrow(10, 5, 7));
